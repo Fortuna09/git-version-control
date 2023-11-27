@@ -48,7 +48,8 @@ Adiciona um arquivo especifico ao proximo commit.
 
 ### Dando COMMIT
 ```git commit -m "Mensagem do commit"```<br>
-Realiza o commit e manda menssagem para indicar as mudanças que foram feitas no projeto.
+Realiza o commit e manda menssagem para indicar as mudanças que foram feitas no projeto. <br>
+**OBS:** É uma boa prática usar o commit semantico.
 
 
 
